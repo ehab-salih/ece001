@@ -1,0 +1,148 @@
+
+	<html> 
+	<head> 
+	<meta charset="utf-8"> 
+	<meta name="description"content"this is my website"> 
+	<title> My website  </title> 
+	<link rel="stylesheet" href="sql.CSS" /> 
+
+	
+	
+	</head> 
+	<body class="body" > 
+	<div >
+		<fieldset><legend >Sql</legend>
+	
+	<p > is a database computer language designed for the retrieval and management of data in relational database. SQL stands for Structured Query Language. </p>
+	<p>Java programming language was at first developed through Sun Microsystems and turned intobrought by means of James Gosling and published as the core aspect of the Java platform (Java 1.zero [J2SE]) of Sun Microsystems in 1995.Java Standard Edition new replace is Java SE 8. With the advent of Java and its massive popularity, several configurations had been constructedto healthy distinct platform styles. For instance J2EE for Enterprise Applications, J2ME for Mobile Applications</p>
+<p>SQL is Structured Query Language, which is a computer language for storing, manipulating and retrieving data stored in relational database. SQL is the standard language for Relation Database System. All relational database management systems like MySQL, MS Access, Oracle, Sybase, Informix, postgres and SQL Server use SQL as standard database language.</p>
+<h1>they are using different dialects, such as:</h1>
+
+<ul>
+	<li> MS SQL Server using T-SQL, </li>
+	<li>Oracle using PL/SQL, </li>
+	<li>MS Access version of SQL is called JET SQL (native format) etc.</li>
+	</ul>
+<h4>When you are executing an SQL command for any RDBMS, the system determines the best way to carry out your request and SQL engine figures out how to interpret the task. </h4>
+<p>There are various components included in the process. These components are Query Dispatcher, Optimization Engines, Classic Query Engine and SQL Query Engine, etc. 
+Classic query engine handles all non-SQL queries, but SQL query engine won't handle logical files. 
+</p>
+<h1>Following is a simple diagram showing SQL Architecture:</h1>
+<img src ="m.png" width="650" height="350" ></fieldset>
+	
+	
+</div>
+
+	
+	<br>
+	<h1>SQL Commands: </h1>	
+	<ol>
+	
+	<li >	DDL - Data Definition Language:
+	<table border="3" width="400"> 
+	
+	<tr>
+	<th>command</th>
+	<th>description</th>
+</tr>
+	<tr>
+	<td>create</td> 
+	<td>Create a new table , a view of tableor other object in database</td>
+	
+</tr>
+	<tr>
+	<td>Alter</td> 
+	<td>modofies as existing database,object such as a table</td>
+	
+</tr>
+	<tr>
+	<td>Drop</td> 
+	<td>Deletes an entire table,a view of a table or other object in data base </td>
+	
+</tr>
+	</table>
+	</li>
+	<li > DML - Data Manipulation Language:
+	<table border="3" width="200"> 
+	
+	<tr>
+	<th>command</th>
+	<th>description</th>
+</tr>
+	<tr>
+	<td>insert</td> 
+	<td>Creates a record</td>
+	
+</tr>
+	<tr>
+	<td>Update</td> 
+	<td>modofies records</td>
+	
+</tr>
+	<tr>
+	<td>Dlete</td> 
+	<td>Deletes recoeds</td>
+	
+</tr>
+	</table>
+	
+	</li>
+		</ol>
+	
+	<nav>
+			<ul  >
+               <li>  <a href=" x.HTML"> click to continue   </a>
+			   
+			   </li>
+			</ul>
+</nav>
+	<br>
+	<h1>SQL Constraints:</h1>
+	<p>Constraints are the rules enforced on data columns on table. These are used to limit the type of data that can go into a table. This ensures the accuracy and reliability of the data in the database.</p>
+	<p>Constraints could be column level or table level. Column level constraints are applied only to one column, whereas table level constraints are applied to the whole table</p>
+	<nav>
+			<ul  >
+               <li>  <a href=" y.HTML"> click here to see what are commonly used constraints available in SQL  </a>
+			   
+			   </li>
+			</ul>
+</nav>
+	<fieldset><h1>Example:</h1>
+	<p> For example, the following SQL creates a new table called CUSTOMERS and adds five columns, three of which, ID and NAME and AGE, specify not to accept NULLs:</p>
+	
+	<img src ="ex.png" width="550" height="150" >
+	<p>If CUSTOMERS table has already been created, then to add a NOT NULL constraint to SALARY column in Oracle and MySQL, you would write a statement similar to the following:</p>
+	<img src ="ex2.png" width="550" height="150" >
+	</fieldset>
+	<br>
+	<nav>
+			<ul  >
+               <li>  <a href=" z.HTML"> Why sql</a>
+			   
+			   </li>
+			</ul>
+</nav>
+	<h1>the abstract of the research</h1>
+	<nav>
+			<ul  >
+               <li>  <a href=" a.HTML"> Click here</a>
+			   
+			   </li>
+			</ul>
+</nav>
+	</body> 
+	</html>
+
+
+	
+	 
+	
+	
+			
+	
+	
+
+	
+	
+		
+	
